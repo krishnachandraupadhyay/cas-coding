@@ -1,2 +1,1 @@
-# cas-coding
-Author-Krishna Chandra Upadhyay
+# Mini project
